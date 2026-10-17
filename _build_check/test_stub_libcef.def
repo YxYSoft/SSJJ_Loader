@@ -1,4 +1,0 @@
-EXPORTS
-    cef_browser_host_create_browser
-    cef_cookie_manager_get_global_manager
-    cef_string_userfree_utf16_free
