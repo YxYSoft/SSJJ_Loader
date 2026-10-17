@@ -1,0 +1,3 @@
+; TestLoaderHook.def —— 导出 rundll32 入口（序号 1）
+EXPORTS
+    HelperEntry @1

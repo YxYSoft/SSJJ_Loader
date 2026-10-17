@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDUIWnd>
+    <WndInitSize Descr="" NameID="3201664855" Visible="1" Modified="1" ValueID="0" Value="470,400"/>
+    <WndMinSize Descr="" NameID="2494150159" Visible="1" Modified="1" ValueID="0" Value="470,400"/>
+    <WndMaxSize Descr="" NameID="2091422593" Visible="1" Modified="1" ValueID="0" Value="470,400"/>
+    <WndLayered Descr="" NameID="1850352994" Visible="1" Modified="1" ValueID="0" Value="1"/>
+    <WndAlpha Descr="" NameID="1214686012" Visible="1" Modified="1" ValueID="0" Value="255"/>
+    <GdiplusRenderText Descr="" NameID="2521333858" Visible="1" Modified="1" ValueID="0" Value="1"/>
+    <GdiplusRenderImage Descr="" NameID="3504014736" Visible="1" Modified="1" ValueID="0" Value="1"/>
+    <AnimationType Descr="please set window layered style, or the animation is not perfect" NameID="1622402275" Visible="1" Modified="1" ValueID="1781959012" Cur="0"/>
+    <CDUIContainerCtrl>
+        <ID Descr="" NameID="1494443624" Visible="0" Modified="1" ValueID="0" Value="10"/>
+        <ColorBk Descr="" NameID="1718533353" Visible="1" Modified="1" ValueID="536652902"/>
+        <RoundCorner Descr="" NameID="1234111880" Visible="1" Modified="1" ValueID="545149872"/>
+        <BorderStyle Descr="" NameID="263501462" Visible="1" Modified="1" ValueID="1488323796" Cur="0"/>
+        <ColorBorder Descr="" NameID="888955372" Visible="1" Modified="1" ValueID="1223263664"/>
+        <BorderLine Descr="" NameID="1846774511" Visible="1" Modified="1" ValueID="58450096"/>
+        <CDUIAnimateCtrl>
+            <ID Descr="" NameID="1494443624" Visible="0" Modified="1" ValueID="0" Value="100116"/>
+            <Enable Descr="" NameID="1335560700" Visible="1" Modified="1" ValueID="0" Value="1"/>
+            <Position Descr="" NameID="2204219396" Visible="1" Modified="1" ValueID="4276260349"/>
+            <RoundCorner Descr="" NameID="1234111880" Visible="1" Modified="1" ValueID="3515418896"/>
+            <ImageAnimate Descr="" NameID="3646604713" Visible="1" Modified="1" ValueID="3451405966"/>
+            <SequenceFrameSize Descr="" NameID="3391297402" Visible="1" Modified="1" ValueID="0" Value="705,600"/>
+            <SequenceFrameSpeed Descr="" NameID="3215896032" Visible="1" Modified="1" ValueID="0" Value="100"/>
+            <AutoPlay Descr="" NameID="1150052358" Visible="1" Modified="1" ValueID="0" Value="0"/>
+        </CDUIAnimateCtrl>
+    </CDUIContainerCtrl>
+</CDUIWnd>

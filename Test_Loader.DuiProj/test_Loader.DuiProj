@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Version Version="5"/>
+
+<SkinRes SkinFile="SkinRes.xml"/>
+
+<FontRes FontFile="FontRes.xml" Default="微软雅黑-字号:12-粗细:400-非斜体-无下划线-无删除线"/>
+
+<ColorRes ColorFile="ColorRes.xml"/>
+
+<Attribute AttributeFile="Attribute.xml"/>
+
+<ResourceCtrlID CtrlIDFile="ResourceCtrlID.h"/>
+
+<DirectUI DuiName="DlgMain" DuiType="0" DuiFile="DlgMain.xml"/>
+
+<DirectUI DuiName="DlgAddUser" DuiType="0" DuiFile="DlgAddUser.xml"/>
+
+<DirectUI DuiName="MyListMenu" DuiType="4" DuiFile="MyListMenu.xml"/>
+
+<DirectUI DuiName="A9C3353A-4C79-49FE-A8AD-A292610DF720" DuiType="4" DuiFile="A9C3353A-4C79-49FE-A8AD-A292610DF720.xml"/>
+
+<DirectUI DuiName="A9C3353A-4C79-49FE-A8AD-A292610DF720-{00C0BE6A-9FA3-4558-A2DA-2C5EE4F000DF}" DuiType="4" DuiFile="A9C3353A-4C79-49FE-A8AD-A292610DF720-{00C0BE6A-9FA3-4558-A2DA-2C5EE4F000DF}.xml"/>
+
+<DirectUI DuiName="DlgInputBox" DuiType="0" DuiFile="DlgInputBox.xml"/>
+
+<DirectUI DuiName="DlgSetting" DuiType="0" DuiFile="DlgSetting.xml"/>
+
+<DirectUI DuiName="MyListIitem" DuiType="2" DuiFile="MyListIitem.xml"/>
+
+<DirectUI DuiName="ViewCombobox_Audio" DuiType="1" DuiFile="ViewCombobox_Audio.xml"/>
+
+<DirectUI DuiName="DlgSplash" DuiType="0" DuiFile="DlgSplash.xml"/>
+
+<DirectUI DuiName="ViewCombobox_Server" DuiType="1" DuiFile="ViewCombobox_Server.xml"/>

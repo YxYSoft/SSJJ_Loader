@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDUIImageBase ResName="12_pZR_YHJsYQ.67x86" Path="12_pZR_YHJsYQ.67x86.png"/>
+
+<CDUIImageBase ResName="box_1" Path="box_1.png"/>
+
+<CDUIImageBase ResName="logo" Path="logo.png"/>
+
+<CDUIImageBase ResName="sprite_box" Path="sprite_box.png"/>
+
+<CDUIImageBase ResName="sprite_btn" Path="sprite_btn.png"/>
+
+<CDUIImageBase ResName="sprite_prize" Path="sprite_prize.png"/>
+
+<CDUIImageBase ResName="SDdiskStatusCaution-100" Path="SDdiskStatusCaution-100.png"/>
+
+<CDUIImageBase ResName="ZanShan" Path="ZanShan.png"/>
+
+<CDUIImageBase ResName="IM" Path="IM.png"/>
+
+<CDUIImageBase ResName="SMBPrefs" Path="SMBPrefs.png"/>
+
+<CDUIImageBase ResName="toolbar_hover" Path="toolbar_hover.png"/>
+
+<CDUIImageBase ResName="pictures" Path="pictures.webp"/>
+
+<CDUIImageBase ResName="filmstrip_33frames" Path="filmstrip_33frames.png"/>
+
+<CDUIImageBase ResName="app_icon_128" Path="app_icon_128.png"/>
+
+<CDUIImageBase ResName="listitem_hover" Path="listitem_hover.png"/>
+
+<CDUIImageBase ResName="listitem_hover@2x" Path="listitem_hover@2x.png"/>
+
+<CDUIImageBase ResName="listitem_normal" Path="listitem_normal.png"/>
+
+<CDUIImageBase ResName="listitem_normal@2x" Path="listitem_normal@2x.png"/>
+
+<CDUIImageBase ResName="listitem_selected" Path="listitem_selected.png"/>
+
+<CDUIImageBase ResName="listitem_selected@2x" Path="listitem_selected@2x.png"/>
+
+<CDUIImageBase ResName="listitem_selected_hover" Path="listitem_selected_hover.png"/>
+
+<CDUIImageBase ResName="listitem_selected_hover@2x" Path="listitem_selected_hover@2x.png"/>
+
+<CDUIImageBase ResName="listview_bg" Path="listview_bg.png"/>
+
+<CDUIImageBase ResName="panel_dark" Path="panel_dark.png"/>
+
+<CDUIImageBase ResName="panel_glass" Path="panel_glass.png"/>
+
+<CDUIImageBase ResName="titlebtn_close_down" Path="titlebtn_close_down.png"/>
+
+<CDUIImageBase ResName="titlebtn_close_hot" Path="titlebtn_close_hot.png"/>
+
+<CDUIImageBase ResName="titlebtn_close_normal" Path="titlebtn_close_normal.png"/>
+
+<CDUIImageBase ResName="titlebtn_min_down" Path="titlebtn_min_down.png"/>
+
+<CDUIImageBase ResName="titlebtn_min_hot" Path="titlebtn_min_hot.png"/>
+
+<CDUIImageBase ResName="titlebtn_min_normal" Path="titlebtn_min_normal.png"/>
+
+<CDUIImageBase ResName="titlebtn_settings_down" Path="titlebtn_settings_down.png"/>
+
+<CDUIImageBase ResName="titlebtn_settings_hot" Path="titlebtn_settings_hot.png"/>
+
+<CDUIImageBase ResName="titlebtn_settings_normal" Path="titlebtn_settings_normal.png"/>
+
+<CDUIImageBase ResName="switch_off" Path="switch_off.png"/>
+
+<CDUIImageBase ResName="switch_on" Path="switch_on.png"/>
